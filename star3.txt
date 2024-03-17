@@ -1,2 +1,6 @@
 galaxy
-heavenly body superstar supernova stardust
+heavenly
+body
+superstar
+supernova 
+stardust
